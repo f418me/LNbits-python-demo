@@ -10,9 +10,10 @@ Setup a .env file with the content from form .env_example and replace the necess
 
 
 ### Setup and install the requirements:
-The version of pthon needs to be 3.9 or 3.10.
+The version of python needs to be 3.9 or 3.10.
 
-```git clone https://github.com/f418me/LNbits-python-tutorial.git
+```
+git clone https://github.com/f418me/LNbits-python-tutorial.git
 cd LNbits-python-tutorial
 python -m venv venv
 source venv/bin/activate
