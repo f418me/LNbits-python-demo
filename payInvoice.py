@@ -1,6 +1,5 @@
 import asyncio
 import logging
-import ssl
 from aiohttp.client import ClientSession
 from pylnbits.user_wallet import UserWallet
 from pylnbits.config import Config as LNBitsConfig
